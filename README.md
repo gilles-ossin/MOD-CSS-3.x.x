@@ -24,7 +24,7 @@ Only add CDN to an a script tag and let's go !
 
 ```html
 <head>
-    <script src="https://cdn.jsdelivr.net/gh/modsLabs/MOD-CSS-3.x@main/Mod-3.x.min.js">
+    <script src="https://github.com/gilles-ossin/MOD-CSS-3.x.x/edit/main/dist/Mod-3.x.min.js">
 </head>
 ```
 
@@ -39,7 +39,7 @@ co[blue]                /* ==> color: blue */
 p[var(--px)]            /* ==> padding: var(--px) */
 ```
 
-2. We use custom attributes which start with ***:*** , main attributes are ***:mod*** and ***:box*** .
+2. We use custom attributes which start with ***:*** , main attributes are ***:box*** and ***:var***.
 
 ```html
 <div :mod="col[100px]"><div>   <!-- Use :mod to set only flexgrid props-->
