@@ -24,7 +24,7 @@ Only add CDN to an a script tag and let's go !
 
 ```html
 <head>
-    <script src="https://github.com/gilles-ossin/MOD-CSS-3.x.x/edit/main/dist/Mod-3.x.min.js">
+    <script src="https://github.com/gilles-ossin/MOD-CSS-3.x.x/main/dist/Mod-3.x.min.js">
 </head>
 ```
 
